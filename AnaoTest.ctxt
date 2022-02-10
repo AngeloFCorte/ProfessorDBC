@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AnaoTest
+comment1.params=
+comment1.target=void\ anaoDeveNascerCom110Hp()
+comment2.params=
+comment2.target=void\ anaoRecebeAtaqueEFicaCom100DeHp()
+comment3.params=
+comment3.target=void\ anaoRecebe11AtaquesEZeraVida()
+numComments=4
